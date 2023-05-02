@@ -1,6 +1,6 @@
 # Programming as Conversation 2: Introduction
 
-## Learning Goals
+## Learning Goals ok
 
 * Define a statement versus an expression
 * Understand the Default Execution Order
